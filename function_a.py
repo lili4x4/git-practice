@@ -27,8 +27,8 @@ def tyrah_print_num(most_common_value):
 
 
 def intro(name, state):
-    print(f"Hello, my name is {name} annd I live in {state}!")
-    
+    print(f"Hello, my name is {name} and I live in {state}!")
+
 def lili_rulez():
     print("Lili rulez!")
 
@@ -36,6 +36,7 @@ lili_rulez()
 
 def print_mochi():
     print("Mmmm, mochi!")
+
 
 if __name__ == "__main__":
     nums = [1, 1, 3, 3, 3, 7, 8, 2, 1, 3]
