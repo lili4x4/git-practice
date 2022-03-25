@@ -18,6 +18,7 @@ def most_common_value(number_list):
     return most_common_value
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 def tyrah_print_num(most_common_value):
     printing = (most_common_value *3)
 
@@ -26,6 +27,15 @@ def tyrah_print_num(most_common_value):
     tyrah_print_num(most_common_value)
 
 =======
+=======
+def intro(name, state):
+    print(f"Hello, my name is {name} annd I live in {state}!")
+    
+def lili_rulez():
+    print("Lili rulez!")
+
+lili_rulez()
+>>>>>>> 53d5b58b36fc5eea1946ad749415c560430d3f06
 def print_mochi():
     print("Mmmm, mochi!")
 >>>>>>> f8432be7af36f61f9837fad9c0766df5ee67db30
