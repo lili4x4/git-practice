@@ -19,6 +19,10 @@ def most_common_value(number_list):
 def intro(name, state):
     print(f"Hello, my name is {name} annd I live in {state}!")
     
+def lili_rulez():
+    print("Lili rulez!")
+
+lili_rulez()
 def print_mochi():
     print("Mmmm, mochi!")
 
