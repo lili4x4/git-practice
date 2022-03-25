@@ -17,6 +17,7 @@ def most_common_value(number_list):
 
     return most_common_value
 
+<<<<<<< HEAD
 def tyrah_print_num(most_common_value):
     printing = (most_common_value *3)
 
@@ -24,6 +25,10 @@ def tyrah_print_num(most_common_value):
 
     tyrah_print_num(most_common_value)
 
+=======
+def print_mochi():
+    print("Mmmm, mochi!")
+>>>>>>> f8432be7af36f61f9837fad9c0766df5ee67db30
 
 if __name__ == "__main__":
     nums = [1, 1, 3, 3, 3, 7, 8, 2, 1, 3]
