@@ -14,7 +14,7 @@ def silly_sum():
         input_int = int(input("Please enter a number (enter 0 to stop): "))
         sum += input_int
         if sum >= 1000:
-            break5
+            break
     
     return sum
 
