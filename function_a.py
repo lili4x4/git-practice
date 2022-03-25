@@ -13,8 +13,16 @@ def most_common_value(number_list):
         if max_frequency < frequency_index[num]:
             max_frequency = frequency_index[num]
             most_common_value = num
+    
 
     return most_common_value
+
+def tyrah_print_num(most_common_value):
+    printing = (most_common_value *3)
+
+    return printing
+
+    tyrah_print_num(most_common_value)
 
 
 if __name__ == "__main__":
